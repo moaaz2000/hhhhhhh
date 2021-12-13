@@ -22,7 +22,6 @@ Smoke_Tests {
         System.out.println(size);
         Assert.assertEquals(size, 4);
 
-
     }
 
     @Given("fill out all the destination fields")
